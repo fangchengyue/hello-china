@@ -1,2 +1,3 @@
 # hello-china
-Just another repository
+I am a saleswoman .
+I like code.
